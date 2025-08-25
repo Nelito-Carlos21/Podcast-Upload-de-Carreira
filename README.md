@@ -1,2 +1,5 @@
 # Podcast Upload de Carreira
-Podcast feito por Inteligencia Artificial com o tema Tecnologia e empregabilidade nos tempos atuais
+
+Criação de Podcast por IA.
+
+O tema desta Podcast é  *Tecnologia* *e* *empregabilidade* *nos* *tempos* *atuais*
